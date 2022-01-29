@@ -5,3 +5,6 @@ desafio 1 DIO
 comando - git pull origin
 arquivo "puxado" para o repositório local
 
+- texto adicionado no repo remoto 
+comando - git push -u origin master
+arquivo "empurrado" para o repositório remoto
