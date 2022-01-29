@@ -1,2 +1,7 @@
-arquivo criado no repositório remoto. 
+﻿arquivo criado no repositório remoto. 
 desafio 1 DIO
+
+- texto adicionado no repositório local
+comando - git pull origin
+arquivo "puxado" para o repositório local
+
